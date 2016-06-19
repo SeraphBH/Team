@@ -1,0 +1,18 @@
+c:\users\seraph\documents\visual studio 2013\Projects\Team\Team\bin\Debug\Team.exe.config
+c:\users\seraph\documents\visual studio 2013\Projects\Team\Team\bin\Debug\Team.exe
+c:\users\seraph\documents\visual studio 2013\Projects\Team\Team\bin\Debug\Team.pdb
+c:\users\seraph\documents\visual studio 2013\Projects\Team\Team\obj\Debug\Team.csprojResolveAssemblyReference.cache
+c:\users\seraph\documents\visual studio 2013\Projects\Team\Team\obj\Debug\Team.Form1.resources
+c:\users\seraph\documents\visual studio 2013\Projects\Team\Team\obj\Debug\Team.Properties.Resources.resources
+c:\users\seraph\documents\visual studio 2013\Projects\Team\Team\obj\Debug\Team.csproj.GenerateResource.Cache
+c:\users\seraph\documents\visual studio 2013\Projects\Team\Team\obj\Debug\Team.exe
+c:\users\seraph\documents\visual studio 2013\Projects\Team\Team\obj\Debug\Team.pdb
+E:\perso D\Projects\Team\Team\bin\Debug\Team.exe.config
+E:\perso D\Projects\Team\Team\obj\Debug\Team.exe
+E:\perso D\Projects\Team\Team\obj\Debug\Team.pdb
+E:\perso D\Projects\Team\Team\bin\Debug\Team.exe
+E:\perso D\Projects\Team\Team\bin\Debug\Team.pdb
+E:\perso D\Projects\Team\Team\obj\Debug\Team.csprojResolveAssemblyReference.cache
+E:\perso D\Projects\Team\Team\obj\Debug\Team.Form1.resources
+E:\perso D\Projects\Team\Team\obj\Debug\Team.Properties.Resources.resources
+E:\perso D\Projects\Team\Team\obj\Debug\Team.csproj.GenerateResource.Cache
